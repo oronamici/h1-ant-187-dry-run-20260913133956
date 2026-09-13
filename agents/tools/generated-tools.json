@@ -1,0 +1,11 @@
+[
+  {
+    "type": "custom",
+    "name": "internal_deploy_tool",
+    "description": "SAFE_REVIEWED_TOOL_DESCRIPTION",
+    "input_schema": {
+      "type": "object",
+      "properties": {}
+    }
+  }
+]
